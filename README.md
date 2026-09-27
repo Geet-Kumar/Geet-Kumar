@@ -1,9 +1,5 @@
 # About Me 👋
 
-<!--
-**Geet-Kumar/Geet-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# About me 👋
-
 📊 Data Analyst with a finance and credit background, skilled in **SQL, Python, Power BI, and Excel**.
 💼 Experience in financial modeling, credit appraisal, and project-finance analysis (NPV, IRR, DSCR) across solar, infrastructure, and mortgage/construction lending.
 🔧 Currently building data pipelines, dashboards, and analysis projects.
@@ -52,7 +48,13 @@
 - Financial Modeling Certification — Skill Nation *(2022)*
 
 ---
+## Outside of work
 
+🍳 I enjoy cooking in my spare time
+👯 Catching up with friends over long, aimless conversations
+🎮 PC gaming enthusiast, currently saving up to build my own rig
+
+---
 ## 🏆 Achievements
 
 - Winner, Global Immersion Program — IMT Hyderabad *(2023)*
@@ -62,5 +64,5 @@
 
 ## 📫 Connect with me
 
-- LinkedIn: *[add your LinkedIn URL here]*
+- LinkedIn: *https://www.linkedin.com/in/geet-kumar91/*
 - Email: geetkumar.91@gmail.com
