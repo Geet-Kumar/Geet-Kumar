@@ -1,10 +1,6 @@
 # About Me 👋
 
-📊 Data Analyst with a finance and credit background, skilled in **SQL, Python, Power BI, and Excel**.
-💼 Experience in financial modeling, credit appraisal, and project-finance analysis (NPV, IRR, DSCR) across solar, infrastructure, and mortgage/construction lending.
-🔧 Currently building data pipelines, dashboards, and analysis projects.
-🎓 MBA in Finance, IMT Hyderabad.
-📍 Based in New Delhi, India.
+📊 Finance and credit professional transitioning into Data Analytics, skilled in SQL, Python, Power BI, and Excel. 💼 Experience in financial modeling, credit appraisal, and project-finance analysis (NPV, IRR, DSCR) across solar, infrastructure, and mortgage/construction lending. 🎓 MBA in Finance, IMT Hyderabad. 📍 Based in Noida, India.
 
 ---
 
